@@ -52,6 +52,17 @@
   color: #475c7a;
 }
 
+.button-add-1{
+  width: 100px;
+  padding: 5px 10px;
+  font-size: 15px;
+  border-radius: 10px;
+  border: 0;
+  background-color: #d8737f;
+  cursor: pointer;
+  color: #475c7a;
+}
+
 .list-item {
   display: flex;
   margin: 20px 0;
